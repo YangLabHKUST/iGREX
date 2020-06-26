@@ -83,4 +83,8 @@ Mingxuan Cai, Lin S Chen, Jin Liu and Can Yang. IGREX for quantifying the impact
 Development
 ==========
 
-This R package is developed by Mingxuan Cai (mcaiad@ust.hk).
+This R package is developed by Mingxuan Cai.
+
+Contact Information
+==========
+Please feel free to contact Mingxuan Cai (mcaiad@ust.hk) or Prof. Can Yang (macyang@ust.hk) if any questions.
